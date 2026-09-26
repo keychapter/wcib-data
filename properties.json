@@ -1,0 +1,12 @@
+{
+  "properties": [
+    {
+      "name": "Rise 3",
+      "priceFrom": 400000,
+      "priceTo": 600000,
+      "area": "island",
+      "neighbourhood": "Georgetown",
+      "type": "highrise"
+    }
+  ]
+}
