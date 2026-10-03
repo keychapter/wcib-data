@@ -217,7 +217,7 @@
       "type": "landed"
     },
     {
-      "name": "Forescape @ Metrioplace",
+      "name": "Forescape",
       "priceFrom": 542500,
       "priceTo": 720500,
       "area": "mainland",
@@ -385,7 +385,7 @@
       "type": "highrise"
     },
     {
-      "name": "Muza @ PICC",
+      "name": "Muze",
       "priceFrom": 1068000,
       "priceTo": 2042400,
       "area": "island",
@@ -441,7 +441,7 @@
       "type": "landed"
     },
     {
-      "name": "Savana @ Utropolis",
+      "name": "Savana",
       "priceFrom": 541000,
       "priceTo": 831000,
       "area": "mainland",
@@ -577,7 +577,7 @@
       "type": "highrise"
     },
     {
-      "name": "Taman Fajar Permai (Sunrise Terraces)",
+      "name": "Taman Fajar Permai",
       "priceFrom": 547200,
       "priceTo": 657000,
       "area": "mainland",
@@ -601,7 +601,7 @@
       "type": "highrise"
     },
     {
-      "name": "Taman Jasa Intan (last unit)",
+      "name": "Taman Jasa Intan",
       "priceFrom": 848800,
       "priceTo": 848800,
       "area": "mainland",
