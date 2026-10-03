@@ -1,11 +1,819 @@
 {
   "properties": [
     {
-      "name": "Rise 3",
+      "name": "1 City Height",
+      "priceFrom": 442000,
+      "priceTo": 517000,
+      "area": "mainland",
+      "neighbourhood": "Juru",
+      "type": "highrise"
+    },
+    {
+      "name": "Air Itam 3 Storey Terrace",
+      "priceFrom": 1858000,
+      "priceTo": 1858000,
+      "area": "island",
+      "neighbourhood": "Air Itam",
+      "type": "landed"
+    },
+    {
+      "name": "Alila 2",
+      "priceFrom": 1950000,
+      "priceTo": 4000000,
+      "area": "island",
+      "neighbourhood": "Tanjung Bungah",
+      "type": "highrise"
+    },
+    {
+      "name": "Alton Sky Villas",
+      "priceFrom": 898560,
+      "priceTo": 2062500,
+      "area": "island",
+      "neighbourhood": "Jelutong",
+      "type": "highrise"
+    },
+    {
+      "name": "Amansara North",
+      "priceFrom": 510000,
+      "priceTo": 860000,
+      "area": "mainland",
+      "neighbourhood": "Kepala Batas",
+      "type": "landed"
+    },
+    {
+      "name": "AndaBreeze Residences",
+      "priceFrom": 450000,
+      "priceTo": 951500,
+      "area": "mainland",
+      "neighbourhood": "Bandar Cassia",
+      "type": "highrise"
+    },
+    {
+      "name": "Anggun Residences",
+      "priceFrom": 683000,
+      "priceTo": 1152000,
+      "area": "mainland",
+      "neighbourhood": "Batu Kawan",
+      "type": "highrise"
+    },
+    {
+      "name": "Araila Park",
+      "priceFrom": 392350,
+      "priceTo": 544000,
+      "area": "mainland",
+      "neighbourhood": "Simpang Ampat",
+      "type": "highrise"
+    },
+    {
+      "name": "Aston Minka Residences",
+      "priceFrom": 380000,
+      "priceTo": 437000,
+      "area": "mainland",
+      "neighbourhood": "Bukit Mertajam",
+      "type": "highrise"
+    },
+    {
+      "name": "Avéa",
+      "priceFrom": 700000,
+      "priceTo": 1481000,
+      "area": "island",
+      "neighbourhood": "Andaman Island",
+      "type": "highrise"
+    },
+    {
+      "name": "Ayana Residence",
+      "priceFrom": 335000,
+      "priceTo": 357500,
+      "area": "mainland",
+      "neighbourhood": "Butterworth",
+      "type": "highrise"
+    },
+    {
+      "name": "Begonia",
+      "priceFrom": 962000,
+      "priceTo": 1587000,
+      "area": "island",
+      "neighbourhood": "Balik Pulau",
+      "type": "landed"
+    },
+    {
+      "name": "Cantonment Residence",
+      "priceFrom": 2500000,
+      "priceTo": 6000000,
+      "area": "island",
+      "neighbourhood": "Pulau Tikus",
+      "type": "highrise"
+    },
+    {
+      "name": "Casa Rica",
+      "priceFrom": 2377500,
+      "priceTo": 2834200,
+      "area": "island",
+      "neighbourhood": "Sungai Ara",
+      "type": "landed"
+    },
+    {
+      "name": "City of Dreams",
+      "priceFrom": 1535800,
+      "priceTo": 3256400,
+      "area": "island",
+      "neighbourhood": "Tanjung Tokong",
+      "type": "highrise"
+    },
+    {
+      "name": "Crown Penang",
+      "priceFrom": 1063000,
+      "priceTo": 1306000,
+      "area": "island",
+      "neighbourhood": "Tanjung Tokong",
+      "type": "highrise"
+    },
+    {
+      "name": "D'Aleena",
       "priceFrom": 400000,
-      "priceTo": 600000,
+      "priceTo": 689000,
+      "area": "mainland",
+      "neighbourhood": "Tasek Gelugor",
+      "type": "landed"
+    },
+    {
+      "name": "D'Hazelton",
+      "priceFrom": 450000,
+      "priceTo": 500000,
+      "area": "island",
+      "neighbourhood": "Farlim",
+      "type": "highrise"
+    },
+    {
+      "name": "Desa Seri Aman",
+      "priceFrom": 1600000,
+      "priceTo": 2150000,
+      "area": "island",
+      "neighbourhood": "Batu Maung",
+      "type": "landed"
+    },
+    {
+      "name": "Double Tree Residences",
+      "priceFrom": 3080000,
+      "priceTo": 3264800,
+      "area": "island",
+      "neighbourhood": "Tanjung Bungah",
+      "type": "landed"
+    },
+    {
+      "name": "Eco Horizon - Dawson",
+      "priceFrom": 904800,
+      "priceTo": 904800,
+      "area": "mainland",
+      "neighbourhood": "Batu Kawan",
+      "type": "landed"
+    },
+    {
+      "name": "Eco Sun - Everine",
+      "priceFrom": 815800,
+      "priceTo": 1172800,
+      "area": "mainland",
+      "neighbourhood": "Batu Kawan",
+      "type": "landed"
+    },
+    {
+      "name": "Element Garden",
+      "priceFrom": 499000,
+      "priceTo": 499000,
+      "area": "mainland",
+      "neighbourhood": "Raja Uda",
+      "type": "highrise"
+    },
+    {
+      "name": "Embun Hills",
+      "priceFrom": 800000,
+      "priceTo": 1150000,
+      "area": "mainland",
+      "neighbourhood": "Bukit Mertajam",
+      "type": "landed"
+    },
+    {
+      "name": "Emerald Residence",
+      "priceFrom": 454261.5,
+      "priceTo": 483417,
+      "area": "island",
+      "neighbourhood": "Teluk Kumbar",
+      "type": "highrise"
+    },
+    {
+      "name": "Fera Courtyard Terraces",
+      "priceFrom": 3680000,
+      "priceTo": 6000000,
+      "area": "island",
+      "neighbourhood": "Andaman Island",
+      "type": "landed"
+    },
+    {
+      "name": "Ferringhi Hills",
+      "priceFrom": 1550000,
+      "priceTo": 1590000,
+      "area": "island",
+      "neighbourhood": "Batu Ferringhi",
+      "type": "landed"
+    },
+    {
+      "name": "Forescape @ Metrioplace",
+      "priceFrom": 542500,
+      "priceTo": 720500,
+      "area": "mainland",
+      "neighbourhood": "Simpang Ampat",
+      "type": "highrise"
+    },
+    {
+      "name": "G'Vinton",
+      "priceFrom": 560500,
+      "priceTo": 1936000,
       "area": "island",
       "neighbourhood": "Georgetown",
+      "type": "highrise"
+    },
+    {
+      "name": "Garden Villa",
+      "priceFrom": 1091376,
+      "priceTo": 2057800,
+      "area": "mainland",
+      "neighbourhood": "Bukit Mertajam",
+      "type": "landed"
+    },
+    {
+      "name": "GEM Residences",
+      "priceFrom": 670800,
+      "priceTo": 723800,
+      "area": "mainland",
+      "neighbourhood": "Prai",
+      "type": "highrise"
+    },
+    {
+      "name": "Goodwood Residence",
+      "priceFrom": 688000,
+      "priceTo": 872942,
+      "area": "island",
+      "neighbourhood": "Bayan Lepas",
+      "type": "highrise"
+    },
+    {
+      "name": "Grains Residences",
+      "priceFrom": 519000,
+      "priceTo": 589000,
+      "area": "mainland",
+      "neighbourhood": "Bukit Mertajam",
+      "type": "highrise"
+    },
+    {
+      "name": "Green City Residence",
+      "priceFrom": 1529398,
+      "priceTo": 2706050,
+      "area": "island",
+      "neighbourhood": "Georgetown",
+      "type": "highrise"
+    },
+    {
+      "name": "Harbour View Residence",
+      "priceFrom": 495000,
+      "priceTo": 557000,
+      "area": "mainland",
+      "neighbourhood": "Butterworth",
+      "type": "highrise"
+    },
+    {
+      "name": "Iconic Harmony",
+      "priceFrom": 322200,
+      "priceTo": 468500,
+      "area": "mainland",
+      "neighbourhood": "Bukit Mertajam",
+      "type": "highrise"
+    },
+    {
+      "name": "Impiana Upeh",
+      "priceFrom": 791000,
+      "priceTo": 849000,
+      "area": "island",
+      "neighbourhood": "Balik Pulau",
+      "type": "landed"
+    },
+    {
+      "name": "Keeperz Suites",
+      "priceFrom": 820100,
+      "priceTo": 865600,
+      "area": "island",
+      "neighbourhood": "Gelugor",
+      "type": "highrise"
+    },
+    {
+      "name": "Laguna Bay",
+      "priceFrom": 460000,
+      "priceTo": 546000,
+      "area": "island",
+      "neighbourhood": "Teluk Kumbar",
+      "type": "highrise"
+    },
+    {
+      "name": "Lightwater Residences",
+      "priceFrom": 2065000,
+      "priceTo": 6459000,
+      "area": "island",
+      "neighbourhood": "Gelugor",
+      "type": "highrise"
+    },
+    {
+      "name": "Lumina Residence",
+      "priceFrom": 1307000,
+      "priceTo": 1438000,
+      "area": "island",
+      "neighbourhood": "Georgetown",
+      "type": "highrise"
+    },
+    {
+      "name": "Maldives Residences",
+      "priceFrom": 470000,
+      "priceTo": 550000,
+      "area": "island",
+      "neighbourhood": "Bayan Lepas",
+      "type": "highrise"
+    },
+    {
+      "name": "Marc Residences",
+      "priceFrom": 586000,
+      "priceTo": 696200,
+      "area": "mainland",
+      "neighbourhood": "Bukit Mertajam",
+      "type": "highrise"
+    },
+    {
+      "name": "Maris",
+      "priceFrom": 975000,
+      "priceTo": 1675000,
+      "area": "island",
+      "neighbourhood": "Andaman Island",
+      "type": "highrise"
+    },
+    {
+      "name": "Marminton Homes",
+      "priceFrom": 498900,
+      "priceTo": 552900,
+      "area": "mainland",
+      "neighbourhood": "Raja Uda",
+      "type": "highrise"
+    },
+    {
+      "name": "Mezon & Park Enclave",
+      "priceFrom": 595000,
+      "priceTo": 876000,
+      "area": "mainland",
+      "neighbourhood": "Batu Kawan",
+      "type": "highrise"
+    },
+    {
+      "name": "Mont Residence",
+      "priceFrom": 780000,
+      "priceTo": 1000000,
+      "area": "island",
+      "neighbourhood": "Tanjung Tokong",
+      "type": "highrise"
+    },
+    {
+      "name": "Montview Residences",
+      "priceFrom": 420236,
+      "priceTo": 584298,
+      "area": "mainland",
+      "neighbourhood": "Machang Bubok",
+      "type": "highrise"
+    },
+    {
+      "name": "Muza @ PICC",
+      "priceFrom": 1068000,
+      "priceTo": 2042400,
+      "area": "island",
+      "neighbourhood": "Bayan Lepas",
+      "type": "highrise"
+    },
+    {
+      "name": "Orchard Villa",
+      "priceFrom": 1988000,
+      "priceTo": 2188000,
+      "area": "mainland",
+      "neighbourhood": "Simpang Ampat",
+      "type": "landed"
+    },
+    {
+      "name": "Paradigm Suites",
+      "priceFrom": 595000,
+      "priceTo": 780000,
+      "area": "mainland",
+      "neighbourhood": "Seberang Jaya",
+      "type": "highrise"
+    },
+    {
+      "name": "Pinnacle Bukit Gambier",
+      "priceFrom": 780800,
+      "priceTo": 1417800,
+      "area": "island",
+      "neighbourhood": "Bukit Gambier",
+      "type": "highrise"
+    },
+    {
+      "name": "Primero Heights",
+      "priceFrom": 506000,
+      "priceTo": 688000,
+      "area": "mainland",
+      "neighbourhood": "Seberang Jaya",
+      "type": "highrise"
+    },
+    {
+      "name": "Queens Residences 3",
+      "priceFrom": 958130,
+      "priceTo": 2180530,
+      "area": "island",
+      "neighbourhood": "Bayan Lepas",
+      "type": "highrise"
+    },
+    {
+      "name": "SA Terraces",
+      "priceFrom": 681888,
+      "priceTo": 956888,
+      "area": "mainland",
+      "neighbourhood": "Simpang Ampat",
+      "type": "landed"
+    },
+    {
+      "name": "Savana @ Utropolis",
+      "priceFrom": 541000,
+      "priceTo": 831000,
+      "area": "mainland",
+      "neighbourhood": "Batu Kawan",
+      "type": "highrise"
+    },
+    {
+      "name": "Scots Pavilion",
+      "priceFrom": 670000,
+      "priceTo": 4088800,
+      "area": "island",
+      "neighbourhood": "Georgetown",
+      "type": "highrise"
+    },
+    {
+      "name": "Scott Logan",
+      "priceFrom": 573800,
+      "priceTo": 1427800,
+      "area": "island",
+      "neighbourhood": "Georgetown",
+      "type": "highrise"
+    },
+    {
+      "name": "Seiras Residences",
+      "priceFrom": 578000,
+      "priceTo": 641000,
+      "area": "mainland",
+      "neighbourhood": "Batu Kawan",
+      "type": "highrise"
+    },
+    {
+      "name": "Sentrino",
+      "priceFrom": 1080000,
+      "priceTo": 1250000,
+      "area": "mainland",
+      "neighbourhood": "Bukit Mertajam",
+      "type": "landed"
+    },
+    {
+      "name": "Setia SV2",
+      "priceFrom": 844220,
+      "priceTo": 1533000,
+      "area": "island",
+      "neighbourhood": "Jelutong",
+      "type": "highrise"
+    },
+    {
+      "name": "Sevora",
+      "priceFrom": 430000,
+      "priceTo": 472800,
+      "area": "mainland",
+      "neighbourhood": "Bukit Mertajam",
+      "type": "highrise"
+    },
+    {
+      "name": "SilkSpring Residence",
+      "priceFrom": 527650,
+      "priceTo": 558650,
+      "area": "mainland",
+      "neighbourhood": "Butterworth",
+      "type": "highrise"
+    },
+    {
+      "name": "Starhill Luxury Residences",
+      "priceFrom": 2597010,
+      "priceTo": 3388233,
+      "area": "island",
+      "neighbourhood": "Bukit Gambier",
+      "type": "landed"
+    },
+    {
+      "name": "Starhill Residences Condo",
+      "priceFrom": 735000,
+      "priceTo": 1946000,
+      "area": "island",
+      "neighbourhood": "Bukit Gambier",
+      "type": "highrise"
+    },
+    {
+      "name": "Sungai Ara Affordable Home",
+      "priceFrom": 360000,
+      "priceTo": 499999,
+      "area": "island",
+      "neighbourhood": "Sungai Ara",
+      "type": "highrise"
+    },
+    {
+      "name": "Sunway Wellesley Serene Villas",
+      "priceFrom": 680000,
+      "priceTo": 980000,
+      "area": "mainland",
+      "neighbourhood": "Bukit Mertajam",
+      "type": "landed"
+    },
+    {
+      "name": "Taman Ara Damai",
+      "priceFrom": 332595,
+      "priceTo": 669465,
+      "area": "mainland",
+      "neighbourhood": "Tasek Gelugor",
+      "type": "landed"
+    },
+    {
+      "name": "Taman Bertam Saujana",
+      "priceFrom": 706560,
+      "priceTo": 938600,
+      "area": "mainland",
+      "neighbourhood": "Kepala Batas",
+      "type": "landed"
+    },
+    {
+      "name": "Taman Bistari Indah",
+      "priceFrom": 619920,
+      "priceTo": 691800,
+      "area": "mainland",
+      "neighbourhood": "Nibong Tebal",
+      "type": "landed"
+    },
+    {
+      "name": "Taman Bistari Jaya",
+      "priceFrom": 675850.4,
+      "priceTo": 1009470,
+      "area": "mainland",
+      "neighbourhood": "Nibong Tebal",
+      "type": "landed"
+    },
+    {
+      "name": "Taman Casa Utopia",
+      "priceFrom": 387040,
+      "priceTo": 632000,
+      "area": "mainland",
+      "neighbourhood": "Butterworth",
+      "type": "highrise"
+    },
+    {
+      "name": "Taman Fajar Permai (Sunrise Terraces)",
+      "priceFrom": 547200,
+      "priceTo": 657000,
+      "area": "mainland",
+      "neighbourhood": "Nibong Tebal",
+      "type": "landed"
+    },
+    {
+      "name": "Taman Harmoni Indah",
+      "priceFrom": 517203,
+      "priceTo": 1102000,
+      "area": "mainland",
+      "neighbourhood": "Nibong Tebal",
+      "type": "landed"
+    },
+    {
+      "name": "Taman Harmoni Vista",
+      "priceFrom": 300000,
+      "priceTo": 400000,
+      "area": "island",
+      "neighbourhood": "Teluk Kumbar",
+      "type": "highrise"
+    },
+    {
+      "name": "Taman Jasa Intan (last unit)",
+      "priceFrom": 848800,
+      "priceTo": 848800,
+      "area": "mainland",
+      "neighbourhood": "Bukit Mertajam",
+      "type": "landed"
+    },
+    {
+      "name": "Taman Lembah Permai",
+      "priceFrom": 1550000,
+      "priceTo": 5282900,
+      "area": "mainland",
+      "neighbourhood": "Bukit Mertajam",
+      "type": "landed"
+    },
+    {
+      "name": "Taman Nara",
+      "priceFrom": 956000,
+      "priceTo": 1077000,
+      "area": "mainland",
+      "neighbourhood": "Bukit Mertajam",
+      "type": "landed"
+    },
+    {
+      "name": "Taman Nuri Emas",
+      "priceFrom": 790608,
+      "priceTo": 868800,
+      "area": "mainland",
+      "neighbourhood": "Nibong Tebal",
+      "type": "landed"
+    },
+    {
+      "name": "Taman Selayang Jaya",
+      "priceFrom": 1113000,
+      "priceTo": 1113000,
+      "area": "mainland",
+      "neighbourhood": "Butterworth",
+      "type": "landed"
+    },
+    {
+      "name": "Taman Seri Bedu",
+      "priceFrom": 478000,
+      "priceTo": 642222,
+      "area": "mainland",
+      "neighbourhood": "Tasek Gelugor",
+      "type": "landed"
+    },
+    {
+      "name": "Taman Seri Valdor",
+      "priceFrom": 586000,
+      "priceTo": 848800,
+      "area": "mainland",
+      "neighbourhood": "Jawi",
+      "type": "landed"
+    },
+    {
+      "name": "The Anton",
+      "priceFrom": 3900000,
+      "priceTo": 7850000,
+      "area": "island",
+      "neighbourhood": "Pulau Tikus",
+      "type": "highrise"
+    },
+    {
+      "name": "The Lighthauz",
+      "priceFrom": 800000,
+      "priceTo": 1180000,
+      "area": "island",
+      "neighbourhood": "Gelugor",
+      "type": "highrise"
+    },
+    {
+      "name": "The Lume",
+      "priceFrom": 2524000,
+      "priceTo": 3800000,
+      "area": "island",
+      "neighbourhood": "Andaman Island",
+      "type": "highrise"
+    },
+    {
+      "name": "The Marin",
+      "priceFrom": 1049750,
+      "priceTo": 3174750,
+      "area": "island",
+      "neighbourhood": "Batu Ferringhi",
+      "type": "highrise"
+    },
+    {
+      "name": "The Navens",
+      "priceFrom": 474995,
+      "priceTo": 581170,
+      "area": "mainland",
+      "neighbourhood": "Bukit Mertajam",
+      "type": "highrise"
+    },
+    {
+      "name": "The Pier",
+      "priceFrom": 808620,
+      "priceTo": 1113800,
+      "area": "island",
+      "neighbourhood": "Penang World City",
+      "type": "highrise"
+    },
+    {
+      "name": "The Retreat Condominium",
+      "priceFrom": 554000,
+      "priceTo": 673000,
+      "area": "mainland",
+      "neighbourhood": "Bukit Mertajam",
+      "type": "highrise"
+    },
+    {
+      "name": "The Skyline",
+      "priceFrom": 497070,
+      "priceTo": 761300,
+      "area": "island",
+      "neighbourhood": "Bukit Jambul",
+      "type": "highrise"
+    },
+    {
+      "name": "The Terraces",
+      "priceFrom": 564300,
+      "priceTo": 698000,
+      "area": "island",
+      "neighbourhood": "Bukit Jambul",
+      "type": "highrise"
+    },
+    {
+      "name": "Triuni Residences",
+      "priceFrom": 788130,
+      "priceTo": 3364200,
+      "area": "island",
+      "neighbourhood": "Batu Uban",
+      "type": "highrise"
+    },
+    {
+      "name": "Tuan Pavilion",
+      "priceFrom": 692000,
+      "priceTo": 800000,
+      "area": "island",
+      "neighbourhood": "Air Itam",
+      "type": "highrise"
+    },
+    {
+      "name": "Twinstar",
+      "priceFrom": 550000,
+      "priceTo": 558000,
+      "area": "island",
+      "neighbourhood": "Jelutong",
+      "type": "highrise"
+    },
+    {
+      "name": "UL Residence",
+      "priceFrom": 1750000,
+      "priceTo": 2280000,
+      "area": "island",
+      "neighbourhood": "Air Itam",
+      "type": "landed"
+    },
+    {
+      "name": "Valencia Residence",
+      "priceFrom": 1391300,
+      "priceTo": 1553600,
+      "area": "island",
+      "neighbourhood": "Bayan Lepas",
+      "type": "highrise"
+    },
+    {
+      "name": "Versa",
+      "priceFrom": 407700,
+      "priceTo": 518000,
+      "area": "mainland",
+      "neighbourhood": "Batu Kawan",
+      "type": "highrise"
+    },
+    {
+      "name": "Vesta Garden",
+      "priceFrom": 679000,
+      "priceTo": 1580000,
+      "area": "mainland",
+      "neighbourhood": "Kota Permai",
+      "type": "landed"
+    },
+    {
+      "name": "Vi Residence",
+      "priceFrom": 500000,
+      "priceTo": 758000,
+      "area": "mainland",
+      "neighbourhood": "Batu Kawan",
+      "type": "highrise"
+    },
+    {
+      "name": "Vilaris Courtyard",
+      "priceFrom": 2350000,
+      "priceTo": 3000000,
+      "area": "island",
+      "neighbourhood": "Batu Uban",
+      "type": "landed"
+    },
+    {
+      "name": "Vivio Executive Apartment",
+      "priceFrom": 413670,
+      "priceTo": 555700,
+      "area": "mainland",
+      "neighbourhood": "Batu Kawan",
+      "type": "landed"
+    },
+    {
+      "name": "Waterstone",
+      "priceFrom": 1124880,
+      "priceTo": 2411000,
+      "area": "island",
+      "neighbourhood": "Tanjung Bungah",
       "type": "highrise"
     }
   ]
