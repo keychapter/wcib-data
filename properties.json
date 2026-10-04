@@ -673,6 +673,14 @@
       "type": "highrise"
     },
     {
+      "name": "The Fount",
+      "priceFrom": 813450,
+      "priceTo": 1148800,
+      "area": "island",
+      "neighbourhood": "Batu Uban",
+      "type": "highrise"
+    },
+    {
       "name": "The Lighthauz",
       "priceFrom": 800000,
       "priceTo": 1180000,
