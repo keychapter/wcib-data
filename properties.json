@@ -105,6 +105,14 @@
       "type": "highrise"
     },
     {
+      "name": "Capehauz",
+      "priceFrom": 755000,
+      "priceTo": 1100000,
+      "area": "island",
+      "neighbourhood": "Gelugor",
+      "type": "highrise"
+    },
+    {
       "name": "Casa Rica",
       "priceFrom": 2377500,
       "priceTo": 2834200,
