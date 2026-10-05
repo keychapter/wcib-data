@@ -105,14 +105,6 @@
       "type": "highrise"
     },
     {
-      "name": "Capehauz",
-      "priceFrom": 755000,
-      "priceTo": 1100000,
-      "area": "island",
-      "neighbourhood": "Gelugor",
-      "type": "highrise"
-    },
-    {
       "name": "Casa Rica",
       "priceFrom": 2377500,
       "priceTo": 2834200,
@@ -183,6 +175,14 @@
       "area": "mainland",
       "neighbourhood": "Batu Kawan",
       "type": "landed"
+    },
+    {
+      "name": "Eight & Eight",
+      "priceFrom": 630000,
+      "priceTo": 1058413,
+      "area": "island",
+      "neighbourhood": "Gelugor",
+      "type": "highrise"
     },
     {
       "name": "Element Garden",
@@ -682,8 +682,8 @@
     },
     {
       "name": "The Lighthauz",
-      "priceFrom": 800000,
-      "priceTo": 1180000,
+      "priceFrom": 838888,
+      "priceTo": 1100000,
       "area": "island",
       "neighbourhood": "Gelugor",
       "type": "highrise"
