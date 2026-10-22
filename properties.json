@@ -550,6 +550,15 @@
       "commercialTitle": false
     },
     {
+      "name": "Senze @ PICC",
+      "priceFrom": 610451,
+      "priceTo": 828000,
+      "area": "island",
+      "neighbourhood": "Bayan Lepas",
+      "type": "highrise",
+      "commercialTitle": true
+    },
+    {
       "name": "Setia SV2",
       "priceFrom": 844220,
       "priceTo": 1533000,
