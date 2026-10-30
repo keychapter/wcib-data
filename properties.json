@@ -289,6 +289,15 @@
       "commercialTitle": true
     },
     {
+      "name": "Glisten Hill",
+      "priceFrom": 477871,
+      "priceTo": 599720,
+      "area": "mainland",
+      "neighbourhood": "Juru",
+      "type": "highrise",
+      "commercialTitle": false
+    },
+    {
       "name": "Goodwood Residence",
       "priceFrom": 688000,
       "priceTo": 872942,
