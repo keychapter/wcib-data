@@ -948,6 +948,15 @@
       "neighbourhood": "Tanjung Bungah",
       "type": "highrise",
       "commercialTitle": false
+    },
+    {
+      "name": "Westin Residences",
+      "priceFrom": 2300000,
+      "priceTo": 3000000,
+      "area": "island",
+      "neighbourhood": "Gurney",
+      "type": "highrise",
+      "commercialTitle": false
     }
   ]
 }
