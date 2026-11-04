@@ -356,6 +356,16 @@
       "hideName": true
     },
     {
+      "name": "Hidden project 5",
+      "priceFrom": 2300000,
+      "priceTo": 3000000,
+      "area": "island",
+      "neighbourhood": "Gurney",
+      "type": "highrise",
+      "commercialTitle": false,
+      "hideName": true
+    },
+    {
       "name": "Iconic Harmony",
       "priceFrom": 322200,
       "priceTo": 468500,
@@ -946,15 +956,6 @@
       "priceTo": 2411000,
       "area": "island",
       "neighbourhood": "Tanjung Bungah",
-      "type": "highrise",
-      "commercialTitle": false
-    },
-    {
-      "name": "Westin Residences",
-      "priceFrom": 2300000,
-      "priceTo": 3000000,
-      "area": "island",
-      "neighbourhood": "Gurney",
       "type": "highrise",
       "commercialTitle": false
     }
