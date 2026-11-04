@@ -82,15 +82,6 @@
       "commercialTitle": false
     },
     {
-      "name": "Avéa",
-      "priceFrom": 700000,
-      "priceTo": 1481000,
-      "area": "island",
-      "neighbourhood": "Andaman Island",
-      "type": "highrise",
-      "commercialTitle": true
-    },
-    {
       "name": "Ayana Residence",
       "priceFrom": 335000,
       "priceTo": 357500,
@@ -235,15 +226,6 @@
       "commercialTitle": false
     },
     {
-      "name": "Fera Courtyard Terraces",
-      "priceFrom": 3680000,
-      "priceTo": 6000000,
-      "area": "island",
-      "neighbourhood": "Andaman Island",
-      "type": "landed",
-      "commercialTitle": false
-    },
-    {
       "name": "Ferringhi Hills",
       "priceFrom": 1550000,
       "priceTo": 1590000,
@@ -334,6 +316,46 @@
       "commercialTitle": false
     },
     {
+      "name": "Hidden project 1",
+      "priceFrom": 700000,
+      "priceTo": 1481000,
+      "area": "island",
+      "neighbourhood": "Gurney",
+      "type": "highrise",
+      "commercialTitle": true,
+      "hideName": true
+    },
+    {
+      "name": "Hidden project 2",
+      "priceFrom": 3680000,
+      "priceTo": 6000000,
+      "area": "island",
+      "neighbourhood": "Gurney",
+      "type": "landed",
+      "commercialTitle": false,
+      "hideName": true
+    },
+    {
+      "name": "Hidden project 3",
+      "priceFrom": 975000,
+      "priceTo": 1675000,
+      "area": "island",
+      "neighbourhood": "Gurney",
+      "type": "highrise",
+      "commercialTitle": true,
+      "hideName": true
+    },
+    {
+      "name": "Hidden project 4",
+      "priceFrom": 2524000,
+      "priceTo": 3800000,
+      "area": "island",
+      "neighbourhood": "Gurney",
+      "type": "highrise",
+      "commercialTitle": false,
+      "hideName": true
+    },
+    {
       "name": "Iconic Harmony",
       "priceFrom": 322200,
       "priceTo": 468500,
@@ -402,15 +424,6 @@
       "priceTo": 696200,
       "area": "mainland",
       "neighbourhood": "Bukit Mertajam",
-      "type": "highrise",
-      "commercialTitle": true
-    },
-    {
-      "name": "Maris",
-      "priceFrom": 975000,
-      "priceTo": 1675000,
-      "area": "island",
-      "neighbourhood": "Andaman Island",
       "type": "highrise",
       "commercialTitle": true
     },
@@ -773,15 +786,6 @@
       "neighbourhood": "Gelugor",
       "type": "highrise",
       "commercialTitle": true
-    },
-    {
-      "name": "The Lume",
-      "priceFrom": 2524000,
-      "priceTo": 3800000,
-      "area": "island",
-      "neighbourhood": "Andaman Island",
-      "type": "highrise",
-      "commercialTitle": false
     },
     {
       "name": "The Marin",
