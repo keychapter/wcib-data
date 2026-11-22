@@ -483,6 +483,15 @@
       "commercialTitle": false
     },
     {
+      "name": "Mynt Place",
+      "priceFrom": 930000,
+      "priceTo": 1100000,
+      "area": "mainland",
+      "neighbourhood": "Alma",
+      "type": "landed",
+      "commercialTitle": false
+    },
+    {
       "name": "Orchard Villa",
       "priceFrom": 1988000,
       "priceTo": 2188000,
