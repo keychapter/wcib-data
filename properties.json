@@ -384,6 +384,15 @@
       "commercialTitle": false
     },
     {
+      "name": "Irama D'Duduk @ Eco Sun",
+      "priceFrom": 460800,
+      "priceTo": 519500,
+      "area": "mainland",
+      "neighbourhood": "Batu Kawan",
+      "type": "highrise",
+      "commercialTitle": true
+    },
+    {
       "name": "Keeperz Suites",
       "priceFrom": 820100,
       "priceTo": 865600,
