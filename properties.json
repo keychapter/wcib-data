@@ -64,15 +64,6 @@
       "commercialTitle": false
     },
     {
-      "name": "Araila Park",
-      "priceFrom": 392350,
-      "priceTo": 544000,
-      "area": "mainland",
-      "neighbourhood": "Simpang Ampat",
-      "type": "highrise",
-      "commercialTitle": true
-    },
-    {
       "name": "Aston Minka Residences",
       "priceFrom": 380000,
       "priceTo": 437000,
